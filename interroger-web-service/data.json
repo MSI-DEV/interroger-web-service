@@ -1,0 +1,40 @@
+{
+    "eleves": [
+        {
+            "nom": "BARKAEV",
+            "prenom": "Ramzane"
+        },
+        {
+            "nom": "BELKAHLA",
+            "prenom": "Samir"
+        },
+        {
+            "nom": "BOUTIN",
+            "prenom": "Loïc"
+        },
+        {
+            "nom": "HAMMAMI",
+            "prenom": "Rayan"
+        },
+        {
+            "nom": "MAXHUNI",
+            "prenom": "Zerina"
+        },
+        {
+            "nom": "OTTAWA",
+            "prenom": "Diane"
+        },
+        {
+            "nom": "PETTIKKARANPARAMBIL EBRAH",
+            "prenom": "Fabin"
+        },
+        {
+            "nom": "SHBIB",
+            "prenom": "Samy"
+        },
+        {
+            "nom": "SPAETER",
+            "prenom": "Jérôme"
+        }
+    ]
+}

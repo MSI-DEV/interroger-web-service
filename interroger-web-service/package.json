@@ -1,0 +1,14 @@
+{
+  "name": "interroger-web-service",
+  "version": "1.0.0",
+  "description": "interrogation d'une ressource externe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fremont Mathieu",
+  "license": "ISC",
+  "dependencies": {
+    "ajax": "^0.0.4"
+  }
+}
